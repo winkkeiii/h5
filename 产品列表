@@ -1,1 +1,127 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>产品列表</title>
+    <link rel="stylesheet" href="../css/index.css">
+    <style>
+        .chanpin{
+            border: 1px solid blue;
+            width: 190px;
+            height: 266px;
+        }
+        .tupian{
+            border: 1px solid yellow;
+            width: 120px;
+            height: 120px;
+            margin: 20px auto 10px;
+        }
+        .tupian img{
+            width: 120px;
+            height: 120px;
+        }
+        .chanpin h5{
+            border: 1px solid rebeccapurple;
+            /* 左右空间 */
+            padding: 0 10px;
+            /* 文字总高 */
+            height: 40px;
+            /* 文字粗细 */
+            font-weight: 400;
+            /* 溢出隐藏 */
+            overflow: hidden;
+            /* 文字行高 */
+            line-height: 20px;
+        }
+        .jiage{
+            border: 1px solid aquamarine;
+            margin-left: 10px;
+            color: red;
+            font-size: 80%;
+        }
+        .jiage span{
+            border: 1px solid hotpink;
+            font-size: 120%;
+        }
+    </style>
+</head>
+<body>
+    <div class="cp-list">
+        <ul>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            <li><a href="javascript:;"><div class="chanpin">
+                <div class="tupian">
+                    <img src="../image/微信图片_20201112200859.png">
+                </div>
+                <h5> 珀莱雅 PROYA 烟酰胺美白精华液发光瓶(30ml+1.35g)护肤品套装提亮肤色改善暗哑 补水保湿收缩毛孔化妆品</h5>
+                <span class="jiage">￥<span>169.00</span></span>
+            </div></a></li>
+            
+        </ul>
+    </div>
+</body>
+</html>
